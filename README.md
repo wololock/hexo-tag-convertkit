@@ -1,5 +1,9 @@
 # hexo-tag-convertkit
 
+[![npm version](https://badgen.net/npm/v/hexo-tag-convertkit)](https://www.npmjs.com/package/hexo-tag-convertkit)
+[![Build Status](https://travis-ci.org/wololock/hexo-tag-convertkit.svg?branch=master)](https://travis-ci.org/wololock/hexo-tag-convertkit)
+[![Coverage Status](https://coveralls.io/repos/github/wololock/hexo-tag-convertkit/badge.svg?branch=master)](https://coveralls.io/github/wololock/hexo-tag-convertkit?branch=master)
+
 A small plugin that integrates Hexo blog with a [Convertkit](https://app.convertkit.com/referrals/l/0de2af60-39b9-4c36-a925-687b4c4189e8) email marketing platform.
 
 ## Why to use this plugin?
