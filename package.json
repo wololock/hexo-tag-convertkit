@@ -1,6 +1,6 @@
 {
   "name": "hexo-tag-convertkit",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Hexo tag plugin for embedding Convertkit form without a hustle",
   "main": "index.js",
   "scripts": {
