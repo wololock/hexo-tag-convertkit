@@ -40,6 +40,14 @@ convertkit:
 ## Usage
 
 To insert Convertkit form using JavaScript code, use the `convertkit(uid)` tag.
+You can find the newsletter form `uid` on the Embed page.
+For instance, if your JavaScript form code is the following:
+
+```
+<script async data-uid="123123123" src="https://15a5-my-domain.ck.page/123123123/index.js"></script>
+```
+
+then the `uid` is `123123123`.
 
 ### EJS
 
