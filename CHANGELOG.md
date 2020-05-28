@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.1 (2020-05-29)
+
+### Fixed
+
+* Fixed broken `template.ejs` path.
+
 ## 0.1.0 (2020-05-29)
 
 ### Added
