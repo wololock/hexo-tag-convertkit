@@ -1,0 +1,5 @@
+permalink: :title/
+theme: test
+
+convertkit:
+  domain: lorem-ipsum.ck.page
