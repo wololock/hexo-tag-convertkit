@@ -22,7 +22,7 @@ npm install --save hexo-tag-convertkit
 ## Configuration
 
 The plugin requires one field to be configured - the `domain`.
-Convertkit serves JavaScript file from the dedicated subdomain that hosts your unique `index.js` file.
+Convertkit serves the JavaScript file from the dedicated subdomain that hosts your unique `index.js` file.
 Below is a configuration block you need to add to the `_config.yml` file.
 
 ```
