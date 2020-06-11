@@ -60,3 +60,12 @@ then the `uid` is `123123123`.
 ```
 {% convertkit '123123123' %}
 ```
+
+## Configuring offset `threshold`
+
+The default value for the offset threshold is `1000`. You can override it if needed in the `_config.yml` file.
+
+```
+convertkit:
+  threshold: 500
+```

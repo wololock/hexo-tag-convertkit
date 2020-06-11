@@ -1,5 +1,16 @@
 # Changelog
 
+## 0.2.0 (2020-06-11)
+
+### Fixed
+
+* Replaced `target.offsetTop` with `target.getBoundingClientRect().top` for more accurate position calculation.
+
+### Added
+
+* Added configurable offset `threshold`.
+* Added log information when the form gets loaded.
+
 ## 0.1.2 (2020-05-29)
 
 ### Fixed
